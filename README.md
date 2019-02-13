@@ -34,7 +34,7 @@
 
 ```
 
-<img src="https://drive.google.com/open?id=12BL5Sw5E08AcqrOsUNDd4mGFMUsxLxod">
+<img src="https://imgur.com/a/ZixZnYO">
 ```markdown
 我不是情話怪
 但我願意和你一起努力
