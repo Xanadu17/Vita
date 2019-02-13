@@ -33,8 +33,7 @@
 # 我愛妳
 
 ```
-
-<img src="https://imgur.com/a/ZixZnYO">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/ZixZnYO"><a href="//imgur.com/ZixZnYO"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 ```markdown
 我不是情話怪
 但我願意和你一起努力
