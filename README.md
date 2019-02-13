@@ -6,7 +6,7 @@
 
 ## I am missing you.
 
-[噢別忘了搭配背景音樂](https://cvws.icloud-content.com/B/ATySvUxgZMKpkriuXtvfyo3V0AzdAVxQYkJUI-gkupcI1TBWcI4au9wO/%28Sungha+Jung%29+Siesta+-+Sungha+Jung.mp3?o=Ap3WpUZgBJs-hQspfqVesnJaewnVJdr3cnJPasTME2u2&v=1&x=3&a=B9Ii69SenMC4KRr1xGvw-4ZKiMRTA4svSQEAAAN8L0k&e=1550081890&k=VMDZ8uiq3BRoGtDiCoSbOw&fl=&r=3ab5fe61-6fcc-497f-8fcf-b1e1c3f4ed5e-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=21&s=88QXPczR-6ItMG45q-HodxN4va8&cd=i)
+[噢別忘了搭配背景音樂](https://drive.google.com/open?id=1_K1oannR4rY70mpPYOaKmJziqmMkGU6-)
 
 
 
@@ -34,7 +34,7 @@
 
 ```
 
-<img src="https://cvws.icloud-content.com/B/ARXLUQ1bl9ZYNOe1OTQj0OsMdafdASsNCTYd5tgNsvQFYlcS3-hBLiHX/Vita.jpg?o=AvV--C7fjnwzP_olnmTY8w3MgImuuLQzefr1pIODI8bn&v=1&x=3&a=Bzdn7MCcw_cStvROBk6tiyQUHIJiA5ovSQEAAAOLL0k&e=1550082781&k=IOSE7Ckh3UCQoTyBAGDCGQ&fl=&r=f6438f1c-6dbe-426b-8f54-3fe8b9d66c45-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=21&s=J313qSQ-TgQWUD7NZqt5PGGa2rI&cd=i">
+<img src="https://drive.google.com/open?id=12BL5Sw5E08AcqrOsUNDd4mGFMUsxLxod">
 ```markdown
 我不是情話怪
 但我願意和你一起努力
