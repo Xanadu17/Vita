@@ -33,14 +33,6 @@
 # 我愛妳
 
 ```
-[ ](https://cvws.icloud-content.com/B/ARXLUQ1bl9ZYNOe1OTQj0OsMdafdASsNCTYd5tgNsvQFYlcS3-hBLiHX/Vita.jpg?o=AvV--C7fjnwzP_olnmTY8w3MgImuuLQzefr1pIODI8bn&v=1&x=3&a=Bzdn7MCcw_cStvROBk6tiyQUHIJiA5ovSQEAAAOLL0k&e=1550082781&k=IOSE7Ckh3UCQoTyBAGDCGQ&fl=&r=f6438f1c-6dbe-426b-8f54-3fe8b9d66c45-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=21&s=J313qSQ-TgQWUD7NZqt5PGGa2rI&cd=i)
+[可愛的你](https://cvws.icloud-content.com/B/ARXLUQ1bl9ZYNOe1OTQj0OsMdafdASsNCTYd5tgNsvQFYlcS3-hBLiHX/Vita.jpg?o=AvV--C7fjnwzP_olnmTY8w3MgImuuLQzefr1pIODI8bn&v=1&x=3&a=Bzdn7MCcw_cStvROBk6tiyQUHIJiA5ovSQEAAAOLL0k&e=1550082781&k=IOSE7Ckh3UCQoTyBAGDCGQ&fl=&r=f6438f1c-6dbe-426b-8f54-3fe8b9d66c45-1&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=21&s=J313qSQ-TgQWUD7NZqt5PGGa2rI&cd=i)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Xanadu17/Vita/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
