@@ -67,5 +67,4 @@
 <input type="button" value="我願意" style="width:120px;height:40px;font-size:20px;" onclick="location.href='https://i.imgur.com/l0tX8dQ.jpg'"> 
 <input type="button" value="讓我考慮一下" style="width:120px;height:40px;font-size:20px;" onclick="location.href='https://imgur.com/a/cdOqO62'">
 
-<a href="https://imgur.com/l0tX8dQ"><img src="https://i.imgur.com/l0tX8dQ.jpg" title="source: imgur.com" /></a>
 
