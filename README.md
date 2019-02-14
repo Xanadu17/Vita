@@ -63,6 +63,6 @@
 我愛你
 # 徐子媛
 ```
-<input type="button" value="我願意" style="width:120px;height:40px;font-size:20px; onclick="location.href='https://zh-tw.facebook.com'"> 
-<input type="button" value="讓我考慮一下" style="width:120px;height:40px;font-size:20px; onclick="location.href='https://zh-tw.facebook.com'">
+<input type="button" value="我願意" style="width:120px;height:40px;font-size:20px;" onclick="location.href='https://zh-tw.facebook.com'"> 
+<input type="button" value="讓我考慮一下" style="width:120px;height:40px;font-size:20px;" onclick="location.href='https://zh-tw.facebook.com'">
 
